@@ -1,0 +1,11 @@
+openai>=1.40.0
+langgraph>=0.2.44
+fastapi>=0.115.0
+uvicorn>=0.30.0
+python-dotenv>=1.0.1
+requests>=2.32.0
+tiktoken>=0.7.0
+# 可选：用于 Mermaid 转图片（需要系统安装 Graphviz）
+# graphviz>=0.20.3
+
+
